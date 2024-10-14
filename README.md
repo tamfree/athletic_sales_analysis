@@ -11,7 +11,7 @@ Analyze sales data to gain insights into
 
 ## Execution
 
-    Jupityer Notebook -  athletic_sales_analysis.ipynb
+    Jupyter Notebook -  athletic_sales_analysis.ipynb
 
 ## Associated lesson
 
